@@ -7,14 +7,14 @@
 
 - 📫 How to reach me **engnrsaqlain@gmail.com**
 
-- <!-- - 👨‍💻 All of my projects are available at [https://farrukhadeel67.github.io/](https://farrukhadeel67.github.io/) -->
+- <!-- - 👨‍💻 All of my projects are available at [https://engineersaqlain.github.io/](https://engineersaqlain.github.io/)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@saqlainahmad142" target="blank"><img align="center" src="https://api.freelogodesign.org/assets/blog/thumb/152880db593345cdb307307a5df1c663_1176x840.jpg?t=637836579260000000" alt="@saqlainahmad142" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/farrukh-adeel-807a4a201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrukh adeel" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010065787339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahibzada farrukh adeel" height="30" width="40" /></a>
-<a href="https://instagram.com/farrukh_adeel_67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farrukh_adeel_67" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saqlain Ahmad" height="30" width="40" /></a>
+<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Saqlain Ahmad" height="30" width="40" /></a>
+<a href="https://instagram.com/saqlainahmad142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saqlainahmad142height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
