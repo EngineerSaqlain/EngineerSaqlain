@@ -23,12 +23,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngineerSaqlain&show_icons=true&locale=en&layout=compact" alt="EngineerSaqlain" /></p>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngineerSaqlain)](https://github.com/anuraghazra/github-readme-stats)
- <!--
-  ## Github Stats
-  ![](https://github-readme-stats.vercel.app/api?username=tameem-623&show_icons=true&theme=tokyonight)
-  ![](https://komarev.com/ghpvc/?username=Tameem-623&color=blue&label=Profile+Views)
-  -->
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngineerSaqlain&show_icons=true&theme=tokyonight)](https://github.com/EngineerSaqlain)
+  ![](https://komarev.com/ghpvc/?username=EngineerSaqlain&color=blue&label=Profile+Views)
 
 **These are some badges i have earned**
 [![@engineersaqlain's Holopin board](https://holopin.me/engineersaqlain)](https://holopin.io/@engineersaqlain)
