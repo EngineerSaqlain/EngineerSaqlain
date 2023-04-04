@@ -9,7 +9,7 @@
 - 📫 How to reach me **engnrsaqlain@gmail.com**
 
 - <!-- - 👨‍💻 All of my projects are available at [https://engineersaqlain.github.io/](https://engineersaqlain.github.io/)-->
-
+![](https://komarev.com/ghpvc/?username=EngineerSaqlain&color=blue&label=Profile+Views)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@saqlainahmad142" target="blank"><img align="center" src="https://api.freelogodesign.org/assets/blog/thumb/152880db593345cdb307307a5df1c663_1176x840.jpg?t=637836579260000000" alt="@saqlainahmad142" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngineerSaqlain&show_icons=true&locale=en&layout=compact" alt="EngineerSaqlain" /></p>
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngineerSaqlain&show_icons=true&theme=tokyonight)](https://github.com/EngineerSaqlain)
-  ![](https://komarev.com/ghpvc/?username=EngineerSaqlain&color=blue&label=Profile+Views)
+  
 
 **These are some badges i have earned**
 [![@engineersaqlain's Holopin board](https://holopin.me/engineersaqlain)](https://holopin.io/@engineersaqlain)
